@@ -3,7 +3,7 @@
 
 Windows で開発（ホットリロード）、Raspberry Pi で検証（常時稼働）を同一コードで回すための最小雛形。
 * WindowsPCで開発する時にLinux環境で動作するかどうかだけ確認したい場合はDockerを使用してますが、その場合カメラの動作確認まではできません。
-
+* Raspberry piでは今のところ動作しません。
 ## Quick Start
 
 
